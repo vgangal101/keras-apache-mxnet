@@ -1,0 +1,26 @@
+2020-02-05 03:28:52,313 [MainThread  ] [INFO ]  saving log file to .//mxnet_channels_first_resnet50__batch_size64_1gpus.log
+2020-02-05 03:28:52,313 [MainThread  ] [INFO ]  using image format: channels_first
+2020-02-05 03:32:08,460 [MainThread  ] [INFO ]  saving log file to .//mxnet_channels_first_resnet50__batch_size64_1gpus.log
+2020-02-05 03:32:08,460 [MainThread  ] [INFO ]  using image format: channels_first
+2020-02-05 03:32:18,524 [MainThread  ] [INFO ]  Training using: resnet50
+2020-02-05 03:32:51,350 [MainThread  ] [INFO ]  saving log file to .//mxnet_channels_first_resnet50__batch_size64_1gpus.log
+2020-02-05 03:32:51,350 [MainThread  ] [INFO ]  using image format: channels_first
+2020-02-05 03:33:01,578 [MainThread  ] [INFO ]  Training using: resnet50
+2020-02-05 03:33:40,037 [MainThread  ] [INFO ]  saving log file to .//mxnet_channels_first_resnet50__batch_size64_1gpus.log
+2020-02-05 03:33:40,037 [MainThread  ] [INFO ]  using image format: channels_first
+2020-02-05 03:33:50,424 [MainThread  ] [INFO ]  Training using: resnet50
+2020-02-05 03:34:28,975 [MainThread  ] [INFO ]  saving log file to .//mxnet_channels_first_resnet50__batch_size64_1gpus.log
+2020-02-05 03:34:28,975 [MainThread  ] [INFO ]  using image format: channels_first
+2020-02-05 03:34:39,359 [MainThread  ] [INFO ]  Training using: resnet50
+2020-02-05 03:35:22,267 [MainThread  ] [INFO ]  [Epoch 0]	time: 42.90 sec	time_step: 4.29 msec/step	speed: 233.09 samples/sec	train_loss: 7.8061	train_acc: 0.0010	
+2020-02-05 03:38:12,606 [MainThread  ] [INFO ]  saving log file to .//mxnet_channels_first_resnet50__batch_size64_1gpus.log
+2020-02-05 03:38:12,607 [MainThread  ] [INFO ]  using image format: channels_first
+2020-02-05 03:38:44,474 [MainThread  ] [INFO ]  saving log file to .//mxnet_channels_first_resnet50__batch_size64_1gpus.log
+2020-02-05 03:38:44,474 [MainThread  ] [INFO ]  using image format: channels_first
+2020-02-05 03:38:54,726 [MainThread  ] [INFO ]  Training using: resnet50
+2020-02-05 03:40:34,385 [MainThread  ] [INFO ]  saving log file to .//mxnet_channels_first_resnet50__batch_size64_1gpus.log
+2020-02-05 03:40:34,385 [MainThread  ] [INFO ]  using image format: channels_first
+2020-02-05 03:40:44,758 [MainThread  ] [INFO ]  Training using: resnet50
+2020-02-05 03:41:49,178 [MainThread  ] [INFO ]  [Epoch 0]	time: 64.42 sec	time_step: 6.44 msec/step	speed: 155.24 samples/sec	train_loss: 7.3216	train_acc: 0.0015	val_loss: 16.0620	val_acc: 0.0012	
+2020-02-05 03:42:11,177 [MainThread  ] [INFO ]  Test loss: 16.0620
+2020-02-05 03:42:11,178 [MainThread  ] [INFO ]  Test accuracy: 0.0012

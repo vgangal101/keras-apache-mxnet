@@ -1,0 +1,18 @@
+2020-02-05 03:46:23,569 [MainThread  ] [INFO ]  saving log file to .//tensorflow_channels_last_resnet50__batch_size64_1gpus.log
+2020-02-05 03:46:23,570 [MainThread  ] [INFO ]  using image format: <function image_data_format at 0x7efe9bc7c048>
+2020-02-05 03:47:25,303 [MainThread  ] [INFO ]  saving log file to .//tensorflow_channels_last_resnet50__batch_size64_1gpus.log
+2020-02-05 03:47:25,303 [MainThread  ] [INFO ]  using image format: <function image_data_format at 0x7fa20ed28048>
+2020-02-05 03:47:33,447 [MainThread  ] [WARNI]  From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-02-05 03:47:35,478 [MainThread  ] [WARNI]  From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-02-05 03:47:38,826 [MainThread  ] [INFO ]  Training using: resnet50
+2020-02-05 03:50:43,053 [MainThread  ] [INFO ]  saving log file to .//tensorflow_channels_last_resnet50__batch_size64_1gpus.log
+2020-02-05 03:50:43,053 [MainThread  ] [INFO ]  using image format: <function image_data_format at 0x7f6fe9032048>
+2020-02-05 03:50:51,188 [MainThread  ] [WARNI]  From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-02-05 03:50:53,239 [MainThread  ] [WARNI]  From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-02-05 03:50:56,533 [MainThread  ] [INFO ]  Training using: resnet50

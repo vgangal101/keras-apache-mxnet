@@ -29,9 +29,9 @@ class Resnet50Benchmark:
         self.test_name = "resnet50"
         self.sample_type = "images"
         self.total_time = 0
-        self.batch_size = 32
-        self.epochs = 20
-        self.num_samples = 1000
+        self.batch_size = 64
+        self.epochs = 1
+        self.num_samples = 10000
         self.test_type = 'tf.keras, eager_mode'
 
     def run_benchmark(self, gpus=0, inference=False, use_dataset_tensors=False, epochs=20):
@@ -70,6 +70,12 @@ class Resnet50Benchmark:
         outputs = keras.applications.ResNet50(include_top=False,
                                               pooling='avg',
                                               weights=None, input_shape=input_shape[1:])(inputs)
+        
+        #outputs = keras.applications.ResNet50(include_top=False,
+         #                                     weights=None, input_shape=input_shape[1:])(inputs)
+        
+        
+        
         predictions = keras.layers.Dense(num_classes)(outputs)
         model = keras.models.Model(inputs, predictions)
         # use multi gpu model for more than 1 gpu
@@ -93,7 +99,7 @@ class Resnet50Benchmark:
             time_callback = TimeHistory()
             callbacks = [time_callback]
             batch_size = self.batch_size * gpus if gpus > 0 else self.batch_size
-            history_callback = model.fit(x_train, y_train, batch_size=batch_size, epochs=self.epochs,
+            history_callback = model.fit(x_train, y_train, batch_size=batch_size, verbose=2,epochs=self.epochs,
                                          shuffle=True, callbacks=callbacks)
 
         logg = LoggingMetrics(history_callback, time_callback)

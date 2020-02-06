@@ -1,0 +1,14 @@
+2020-01-29 03:05:38,043 [MainThread  ] [INFO ]  saving log file to .//mxnet_channels_first_cifar10_resnet_v1_56_batch_size128_4gpus.log
+2020-01-29 03:05:38,043 [MainThread  ] [INFO ]  using image format: <function image_data_format at 0x7f4a0a69f8c8>
+2020-01-29 03:05:38,877 [MainThread  ] [INFO ]  x_train shape: (50000, 3, 32, 32)
+2020-01-29 03:05:38,877 [MainThread  ] [INFO ]  50000 train_samples
+2020-01-29 03:05:38,878 [MainThread  ] [INFO ]  10000 test samples
+2020-01-29 03:05:38,878 [MainThread  ] [INFO ]  y_train shape: (50000, 1)
+2020-01-29 03:05:41,142 [MainThread  ] [INFO ]  Training using: ResNet56v1
+2020-01-29 03:06:32,938 [MainThread  ] [INFO ]  saving log file to .//mxnet_channels_first_cifar10_resnet_v1_56_batch_size128_4gpus.log
+2020-01-29 03:06:32,938 [MainThread  ] [INFO ]  using image format: <function image_data_format at 0x7fedb368f8c8>
+2020-01-29 03:06:33,915 [MainThread  ] [INFO ]  x_train shape: (50000, 3, 32, 32)
+2020-01-29 03:06:33,916 [MainThread  ] [INFO ]  50000 train_samples
+2020-01-29 03:06:33,916 [MainThread  ] [INFO ]  10000 test samples
+2020-01-29 03:06:33,916 [MainThread  ] [INFO ]  y_train shape: (50000, 1)
+2020-01-29 03:06:36,259 [MainThread  ] [INFO ]  Training using: ResNet56v1

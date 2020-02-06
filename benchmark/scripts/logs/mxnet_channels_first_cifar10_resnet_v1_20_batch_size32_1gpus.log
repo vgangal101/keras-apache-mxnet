@@ -1,0 +1,29 @@
+2020-01-30 15:15:58,130 [MainThread  ] [INFO ]  saving log file to .//mxnet_channels_first_cifar10_resnet_v1_20_batch_size32_1gpus.log
+2020-01-30 15:15:58,131 [MainThread  ] [INFO ]  using image format: <function image_data_format at 0x7f76adc988c8>
+2020-01-30 15:15:59,020 [MainThread  ] [INFO ]  x_train shape: (50000, 3, 32, 32)
+2020-01-30 15:15:59,020 [MainThread  ] [INFO ]  50000 train_samples
+2020-01-30 15:15:59,020 [MainThread  ] [INFO ]  10000 test samples
+2020-01-30 15:15:59,020 [MainThread  ] [INFO ]  y_train shape: (50000, 1)
+2020-01-30 15:16:00,787 [MainThread  ] [INFO ]  Training using: ResNet20v1
+2020-01-30 15:28:22,140 [MainThread  ] [INFO ]  [Epoch 0]	time: 35.23 sec	time_step: 704.55 usec/step	speed: 1419.36 samples/sec	train_loss: 1.4683	train_acc: 0.4741	val_loss: 3.5450	val_acc: 0.2505	
+2020-01-30 15:28:22,141 [MainThread  ] [INFO ]  [Epoch 1]	time: 37.10 sec	time_step: 742.04 usec/step	speed: 1347.63 samples/sec	train_loss: 1.0211	train_acc: 0.6559	val_loss: 2.3459	val_acc: 0.3774	
+2020-01-30 15:28:22,141 [MainThread  ] [INFO ]  [Epoch 2]	time: 36.40 sec	time_step: 728.02 usec/step	speed: 1373.59 samples/sec	train_loss: 0.8629	train_acc: 0.7218	val_loss: 1.2614	val_acc: 0.5973	
+2020-01-30 15:28:22,141 [MainThread  ] [INFO ]  [Epoch 3]	time: 36.70 sec	time_step: 734.09 usec/step	speed: 1362.22 samples/sec	train_loss: 0.7729	train_acc: 0.7607	val_loss: 1.1493	val_acc: 0.6414	
+2020-01-30 15:28:22,142 [MainThread  ] [INFO ]  [Epoch 4]	time: 37.38 sec	time_step: 747.51 usec/step	speed: 1337.78 samples/sec	train_loss: 0.7095	train_acc: 0.7868	val_loss: 1.4978	val_acc: 0.5702	
+2020-01-30 15:28:22,142 [MainThread  ] [INFO ]  [Epoch 5]	time: 37.39 sec	time_step: 747.72 usec/step	speed: 1337.40 samples/sec	train_loss: 0.6680	train_acc: 0.8053	val_loss: 1.4461	val_acc: 0.6159	
+2020-01-30 15:28:22,142 [MainThread  ] [INFO ]  [Epoch 6]	time: 36.64 sec	time_step: 732.85 usec/step	speed: 1364.53 samples/sec	train_loss: 0.6369	train_acc: 0.8198	val_loss: 1.0395	val_acc: 0.7044	
+2020-01-30 15:28:22,142 [MainThread  ] [INFO ]  [Epoch 7]	time: 37.03 sec	time_step: 740.64 usec/step	speed: 1350.18 samples/sec	train_loss: 0.6005	train_acc: 0.8358	val_loss: 0.8597	val_acc: 0.7610	
+2020-01-30 15:28:22,142 [MainThread  ] [INFO ]  [Epoch 8]	time: 37.48 sec	time_step: 749.64 usec/step	speed: 1333.98 samples/sec	train_loss: 0.5786	train_acc: 0.8458	val_loss: 0.9142	val_acc: 0.7478	
+2020-01-30 15:28:22,142 [MainThread  ] [INFO ]  [Epoch 9]	time: 37.48 sec	time_step: 749.54 usec/step	speed: 1334.15 samples/sec	train_loss: 0.5588	train_acc: 0.8561	val_loss: 0.9716	val_acc: 0.7290	
+2020-01-30 15:28:22,143 [MainThread  ] [INFO ]  [Epoch 10]	time: 36.81 sec	time_step: 736.27 usec/step	speed: 1358.19 samples/sec	train_loss: 0.5377	train_acc: 0.8631	val_loss: 0.7384	val_acc: 0.8023	
+2020-01-30 15:28:22,143 [MainThread  ] [INFO ]  [Epoch 11]	time: 37.45 sec	time_step: 749.08 usec/step	speed: 1334.98 samples/sec	train_loss: 0.5204	train_acc: 0.8727	val_loss: 0.9734	val_acc: 0.7516	
+2020-01-30 15:28:22,143 [MainThread  ] [INFO ]  [Epoch 12]	time: 37.12 sec	time_step: 742.45 usec/step	speed: 1346.89 samples/sec	train_loss: 0.5086	train_acc: 0.8794	val_loss: 1.1478	val_acc: 0.7171	
+2020-01-30 15:28:22,143 [MainThread  ] [INFO ]  [Epoch 13]	time: 35.68 sec	time_step: 713.69 usec/step	speed: 1401.17 samples/sec	train_loss: 0.4913	train_acc: 0.8876	val_loss: 0.8707	val_acc: 0.7786	
+2020-01-30 15:28:22,143 [MainThread  ] [INFO ]  [Epoch 14]	time: 38.04 sec	time_step: 760.87 usec/step	speed: 1314.28 samples/sec	train_loss: 0.4784	train_acc: 0.8950	val_loss: 1.1418	val_acc: 0.7395	
+2020-01-30 15:28:22,144 [MainThread  ] [INFO ]  [Epoch 15]	time: 37.86 sec	time_step: 757.19 usec/step	speed: 1320.68 samples/sec	train_loss: 0.4689	train_acc: 0.8993	val_loss: 1.1363	val_acc: 0.7377	
+2020-01-30 15:28:22,144 [MainThread  ] [INFO ]  [Epoch 16]	time: 38.19 sec	time_step: 763.89 usec/step	speed: 1309.09 samples/sec	train_loss: 0.4553	train_acc: 0.9054	val_loss: 0.9719	val_acc: 0.7694	
+2020-01-30 15:28:22,144 [MainThread  ] [INFO ]  [Epoch 17]	time: 37.49 sec	time_step: 749.89 usec/step	speed: 1333.52 samples/sec	train_loss: 0.4471	train_acc: 0.9091	val_loss: 1.1516	val_acc: 0.7416	
+2020-01-30 15:28:22,144 [MainThread  ] [INFO ]  [Epoch 18]	time: 36.55 sec	time_step: 730.96 usec/step	speed: 1368.06 samples/sec	train_loss: 0.4401	train_acc: 0.9139	val_loss: 0.8929	val_acc: 0.7874	
+2020-01-30 15:28:22,144 [MainThread  ] [INFO ]  [Epoch 19]	time: 37.30 sec	time_step: 745.93 usec/step	speed: 1340.61 samples/sec	train_loss: 0.4362	train_acc: 0.9150	val_loss: 0.9791	val_acc: 0.7722	
+2020-01-30 15:28:25,161 [MainThread  ] [INFO ]  Test loss: 0.9791
+2020-01-30 15:28:25,162 [MainThread  ] [INFO ]  Test accuracy: 0.7722

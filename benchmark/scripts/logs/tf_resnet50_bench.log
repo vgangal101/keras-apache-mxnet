@@ -1,0 +1,59 @@
+im right here	 tensorflow
+im right here	 tensorflow
+Running model  resnet50
+data format is  channels_first
+(1000, 3, 256, 256)
+Epoch 1/5
+ - 16s - loss: 9.6431 - accuracy: 0.0000e+00
+Epoch 2/5
+ - 5s - loss: 10.4086 - accuracy: 0.0020
+Epoch 3/5
+ - 5s - loss: 10.1124 - accuracy: 0.0030
+Epoch 4/5
+ - 5s - loss: 10.2501 - accuracy: 0.0170
+Epoch 5/5
+ - 5s - loss: 10.9401 - accuracy: 0.0100
+im right here	 tensorflow
+Running model  resnet50
+data format is  channels_first
+(1000, 3, 256, 256)
+Epoch 1/20
+ - 16s - loss: 9.6730 - accuracy: 0.0020
+Epoch 2/20
+ - 5s - loss: 10.2485 - accuracy: 0.0000e+00
+Epoch 3/20
+ - 5s - loss: 9.6431 - accuracy: 0.0030
+Epoch 4/20
+ - 5s - loss: 10.7720 - accuracy: 0.0010
+Epoch 5/20
+ - 5s - loss: 10.7843 - accuracy: 0.0040
+Epoch 6/20
+ - 5s - loss: 11.2097 - accuracy: 0.0030
+Epoch 7/20
+ - 5s - loss: 12.7299 - accuracy: 0.0050
+Epoch 8/20
+ - 5s - loss: 13.3734 - accuracy: 0.0060
+Epoch 9/20
+ - 5s - loss: 13.1170 - accuracy: 0.0040
+Epoch 10/20
+ - 7s - loss: 13.7565 - accuracy: 0.0030
+Epoch 11/20
+ - 6s - loss: 14.2449 - accuracy: 0.0040
+Epoch 12/20
+ - 9s - loss: 14.2439 - accuracy: 0.0040
+Epoch 13/20
+ - 10s - loss: 14.4986 - accuracy: 0.0050
+Epoch 14/20
+ - 13s - loss: 14.3510 - accuracy: 0.0040
+Epoch 15/20
+ - 15s - loss: 14.3547 - accuracy: 0.0040
+Epoch 16/20
+ - 15s - loss: 14.2462 - accuracy: 0.0070
+Epoch 17/20
+ - 16s - loss: 14.7277 - accuracy: 0.0050
+Epoch 18/20
+ - 16s - loss: 14.7303 - accuracy: 0.0080
+Epoch 19/20
+ - 17s - loss: 14.3653 - accuracy: 0.0030
+Epoch 20/20
+ - 16s - loss: 14.2767 - accuracy: 0.0050

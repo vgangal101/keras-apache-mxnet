@@ -1,0 +1,34 @@
+2020-02-02 23:55:42,777 [MainThread  ] [INFO ]  saving log file to .//tensorflow_channels_last_cifar10_resnet_v1_56_batch_size16_1gpus.log
+2020-02-02 23:55:42,778 [MainThread  ] [INFO ]  using image format: <function image_data_format at 0x7f63ab207048>
+2020-02-02 23:55:43,622 [MainThread  ] [INFO ]  x_train shape: (50000, 32, 32, 3)
+2020-02-02 23:55:43,622 [MainThread  ] [INFO ]  50000 train_samples
+2020-02-02 23:55:43,622 [MainThread  ] [INFO ]  10000 test samples
+2020-02-02 23:55:43,623 [MainThread  ] [INFO ]  y_train shape: (50000, 1)
+2020-02-02 23:55:43,644 [MainThread  ] [WARNI]  From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-02-02 23:55:49,525 [MainThread  ] [WARNI]  From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4074: The name tf.nn.avg_pool is deprecated. Please use tf.nn.avg_pool2d instead.
+
+2020-02-02 23:55:49,660 [MainThread  ] [INFO ]  Training using: ResNet56v1
+2020-02-02 23:56:02,460 [MainThread  ] [WARNI]  From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-02-03 01:51:46,974 [MainThread  ] [INFO ]  [Epoch 0]	time: 370.29 sec	time_step: 7.41 msec/step	speed: 135.03 samples/sec	train_loss: 1.8371	val_loss: 1.9987	
+2020-02-03 01:51:46,975 [MainThread  ] [INFO ]  [Epoch 1]	time: 346.87 sec	time_step: 6.94 msec/step	speed: 144.15 samples/sec	train_loss: 1.3071	val_loss: 1.4741	
+2020-02-03 01:51:46,975 [MainThread  ] [INFO ]  [Epoch 2]	time: 342.89 sec	time_step: 6.86 msec/step	speed: 145.82 samples/sec	train_loss: 1.1078	val_loss: 1.2236	
+2020-02-03 01:51:46,976 [MainThread  ] [INFO ]  [Epoch 3]	time: 350.88 sec	time_step: 7.02 msec/step	speed: 142.50 samples/sec	train_loss: 1.0034	val_loss: 1.0757	
+2020-02-03 01:51:46,976 [MainThread  ] [INFO ]  [Epoch 4]	time: 348.70 sec	time_step: 6.97 msec/step	speed: 143.39 samples/sec	train_loss: 0.9291	val_loss: 1.1861	
+2020-02-03 01:51:46,976 [MainThread  ] [INFO ]  [Epoch 5]	time: 348.52 sec	time_step: 6.97 msec/step	speed: 143.46 samples/sec	train_loss: 0.8707	val_loss: 1.0534	
+2020-02-03 01:51:46,976 [MainThread  ] [INFO ]  [Epoch 6]	time: 360.87 sec	time_step: 7.22 msec/step	speed: 138.55 samples/sec	train_loss: 0.8293	val_loss: 1.1156	
+2020-02-03 01:51:46,977 [MainThread  ] [INFO ]  [Epoch 7]	time: 354.70 sec	time_step: 7.09 msec/step	speed: 140.96 samples/sec	train_loss: 0.7907	val_loss: 0.9545	
+2020-02-03 01:51:46,977 [MainThread  ] [INFO ]  [Epoch 8]	time: 343.06 sec	time_step: 6.86 msec/step	speed: 145.75 samples/sec	train_loss: 0.7646	val_loss: 1.1128	
+2020-02-03 01:51:46,977 [MainThread  ] [INFO ]  [Epoch 9]	time: 329.75 sec	time_step: 6.60 msec/step	speed: 151.63 samples/sec	train_loss: 0.7396	val_loss: 0.8473	
+2020-02-03 01:51:46,977 [MainThread  ] [INFO ]  [Epoch 10]	time: 353.86 sec	time_step: 7.08 msec/step	speed: 141.30 samples/sec	train_loss: 0.7164	val_loss: 0.8726	
+2020-02-03 01:51:46,978 [MainThread  ] [INFO ]  [Epoch 11]	time: 356.14 sec	time_step: 7.12 msec/step	speed: 140.39 samples/sec	train_loss: 0.6946	val_loss: 0.8625	
+2020-02-03 01:51:46,978 [MainThread  ] [INFO ]  [Epoch 12]	time: 349.20 sec	time_step: 6.98 msec/step	speed: 143.19 samples/sec	train_loss: 0.6791	val_loss: 1.0970	
+2020-02-03 01:51:46,978 [MainThread  ] [INFO ]  [Epoch 13]	time: 335.86 sec	time_step: 6.72 msec/step	speed: 148.87 samples/sec	train_loss: 0.6664	val_loss: 0.9634	
+2020-02-03 01:51:46,978 [MainThread  ] [INFO ]  [Epoch 14]	time: 349.01 sec	time_step: 6.98 msec/step	speed: 143.26 samples/sec	train_loss: 0.6485	val_loss: 0.8887	
+2020-02-03 01:51:46,978 [MainThread  ] [INFO ]  [Epoch 15]	time: 338.55 sec	time_step: 6.77 msec/step	speed: 147.69 samples/sec	train_loss: 0.6345	val_loss: 1.0095	
+2020-02-03 01:51:46,979 [MainThread  ] [INFO ]  [Epoch 16]	time: 339.75 sec	time_step: 6.79 msec/step	speed: 147.17 samples/sec	train_loss: 0.6239	val_loss: 1.0866	
+2020-02-03 01:51:46,979 [MainThread  ] [INFO ]  [Epoch 17]	time: 337.58 sec	time_step: 6.75 msec/step	speed: 148.11 samples/sec	train_loss: 0.6199	val_loss: 0.9140	
+2020-02-03 01:51:46,979 [MainThread  ] [INFO ]  [Epoch 18]	time: 344.82 sec	time_step: 6.90 msec/step	speed: 145.00 samples/sec	train_loss: 0.6100	val_loss: 0.9495	
+2020-02-03 01:51:46,979 [MainThread  ] [INFO ]  [Epoch 19]	time: 341.33 sec	time_step: 6.83 msec/step	speed: 146.48 samples/sec	train_loss: 0.6045	val_loss: 1.2015	

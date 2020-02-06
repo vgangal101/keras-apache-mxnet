@@ -1,0 +1,105 @@
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:[Epoch 0]	time: 19.60 sec	time_step: 19.60 msec/step	speed: 51.01 samples/sec	train_loss: 9.9125	
+INFO:root:[Epoch 1]	time: 5.29 sec	time_step: 5.29 msec/step	speed: 188.91 samples/sec	train_loss: 10.6625	
+INFO:root:[Epoch 2]	time: 5.21 sec	time_step: 5.21 msec/step	speed: 192.02 samples/sec	train_loss: 10.6646	
+INFO:root:[Epoch 3]	time: 5.23 sec	time_step: 5.23 msec/step	speed: 191.31 samples/sec	train_loss: 10.1381	
+INFO:root:[Epoch 4]	time: 5.18 sec	time_step: 5.18 msec/step	speed: 192.92 samples/sec	train_loss: 11.1060	
+INFO:root:[Epoch 5]	time: 5.12 sec	time_step: 5.12 msec/step	speed: 195.15 samples/sec	train_loss: 11.2270	
+INFO:root:[Epoch 6]	time: 5.17 sec	time_step: 5.17 msec/step	speed: 193.26 samples/sec	train_loss: 12.4897	
+INFO:root:[Epoch 7]	time: 5.16 sec	time_step: 5.16 msec/step	speed: 193.67 samples/sec	train_loss: 13.5135	
+INFO:root:[Epoch 8]	time: 5.18 sec	time_step: 5.18 msec/step	speed: 193.05 samples/sec	train_loss: 13.5566	
+INFO:root:[Epoch 9]	time: 5.15 sec	time_step: 5.15 msec/step	speed: 194.08 samples/sec	train_loss: 13.8281	
+INFO:root:[Epoch 10]	time: 5.39 sec	time_step: 5.39 msec/step	speed: 185.39 samples/sec	train_loss: 14.0460	
+INFO:root:[Epoch 11]	time: 7.00 sec	time_step: 7.00 msec/step	speed: 142.92 samples/sec	train_loss: 14.4409	
+INFO:root:[Epoch 12]	time: 7.58 sec	time_step: 7.58 msec/step	speed: 131.89 samples/sec	train_loss: 14.2724	
+INFO:root:[Epoch 13]	time: 9.12 sec	time_step: 9.12 msec/step	speed: 109.68 samples/sec	train_loss: 14.4776	
+INFO:root:[Epoch 14]	time: 11.91 sec	time_step: 11.91 msec/step	speed: 84.00 samples/sec	train_loss: 14.4160	
+INFO:root:[Epoch 15]	time: 12.86 sec	time_step: 12.86 msec/step	speed: 77.78 samples/sec	train_loss: 14.5001	
+INFO:root:[Epoch 16]	time: 13.97 sec	time_step: 13.97 msec/step	speed: 71.59 samples/sec	train_loss: 14.5439	
+INFO:root:[Epoch 17]	time: 15.32 sec	time_step: 15.32 msec/step	speed: 65.27 samples/sec	train_loss: 14.6919	
+INFO:root:[Epoch 18]	time: 14.40 sec	time_step: 14.40 msec/step	speed: 69.47 samples/sec	train_loss: 14.6951	
+INFO:root:[Epoch 19]	time: 15.89 sec	time_step: 15.89 msec/step	speed: 62.95 samples/sec	train_loss: 14.9386	
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:[Epoch 0]	time: 15.90 sec	time_step: 15.90 msec/step	speed: 62.90 samples/sec	train_loss: 10.0755	
+INFO:root:[Epoch 1]	time: 5.18 sec	time_step: 5.18 msec/step	speed: 193.16 samples/sec	train_loss: 10.0660	
+INFO:root:[Epoch 2]	time: 5.13 sec	time_step: 5.13 msec/step	speed: 194.95 samples/sec	train_loss: 10.5269	
+INFO:root:[Epoch 3]	time: 5.09 sec	time_step: 5.09 msec/step	speed: 196.59 samples/sec	train_loss: 10.3729	
+INFO:root:[Epoch 4]	time: 5.07 sec	time_step: 5.07 msec/step	speed: 197.07 samples/sec	train_loss: 10.3199	
+INFO:root:[Epoch 5]	time: 5.05 sec	time_step: 5.05 msec/step	speed: 198.15 samples/sec	train_loss: 12.8152	
+INFO:root:[Epoch 6]	time: 5.03 sec	time_step: 5.03 msec/step	speed: 198.74 samples/sec	train_loss: 12.7733	
+INFO:root:[Epoch 7]	time: 5.14 sec	time_step: 5.14 msec/step	speed: 194.52 samples/sec	train_loss: 13.5500	
+INFO:root:[Epoch 8]	time: 5.41 sec	time_step: 5.41 msec/step	speed: 184.72 samples/sec	train_loss: 13.9007	
+INFO:root:[Epoch 9]	time: 6.32 sec	time_step: 6.32 msec/step	speed: 158.22 samples/sec	train_loss: 13.9325	
+INFO:root:[Epoch 10]	time: 7.61 sec	time_step: 7.61 msec/step	speed: 131.33 samples/sec	train_loss: 14.1909	
+INFO:root:[Epoch 11]	time: 9.31 sec	time_step: 9.31 msec/step	speed: 107.37 samples/sec	train_loss: 14.0306	
+INFO:root:[Epoch 12]	time: 11.81 sec	time_step: 11.81 msec/step	speed: 84.70 samples/sec	train_loss: 14.2847	
+INFO:root:[Epoch 13]	time: 13.71 sec	time_step: 13.71 msec/step	speed: 72.93 samples/sec	train_loss: 14.7394	
+INFO:root:[Epoch 14]	time: 14.28 sec	time_step: 14.28 msec/step	speed: 70.05 samples/sec	train_loss: 14.2214	
+INFO:root:[Epoch 15]	time: 15.82 sec	time_step: 15.82 msec/step	speed: 63.21 samples/sec	train_loss: 14.3470	
+INFO:root:[Epoch 16]	time: 16.05 sec	time_step: 16.05 msec/step	speed: 62.29 samples/sec	train_loss: 14.5525	
+INFO:root:[Epoch 17]	time: 16.01 sec	time_step: 16.01 msec/step	speed: 62.45 samples/sec	train_loss: 14.4017	
+INFO:root:[Epoch 18]	time: 16.40 sec	time_step: 16.40 msec/step	speed: 60.99 samples/sec	train_loss: 14.3896	
+INFO:root:[Epoch 19]	time: 16.75 sec	time_step: 16.75 msec/step	speed: 59.69 samples/sec	train_loss: 14.3506	
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:[Epoch 0]	time: 16.26 sec	time_step: 16.26 msec/step	speed: 61.50 samples/sec	train_loss: 9.6431	
+INFO:root:[Epoch 1]	time: 5.30 sec	time_step: 5.30 msec/step	speed: 188.75 samples/sec	train_loss: 10.4086	
+INFO:root:[Epoch 2]	time: 5.33 sec	time_step: 5.33 msec/step	speed: 187.73 samples/sec	train_loss: 10.1124	
+INFO:root:[Epoch 3]	time: 5.37 sec	time_step: 5.37 msec/step	speed: 186.38 samples/sec	train_loss: 10.2501	
+INFO:root:[Epoch 4]	time: 5.24 sec	time_step: 5.24 msec/step	speed: 190.66 samples/sec	train_loss: 10.9401	
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /home/gangal.4/miniconda2/envs/keras-tf/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:[Epoch 0]	time: 15.71 sec	time_step: 15.71 msec/step	speed: 63.67 samples/sec	train_loss: 9.6730	
+INFO:root:[Epoch 1]	time: 5.27 sec	time_step: 5.27 msec/step	speed: 189.74 samples/sec	train_loss: 10.2485	
+INFO:root:[Epoch 2]	time: 5.19 sec	time_step: 5.19 msec/step	speed: 192.82 samples/sec	train_loss: 9.6431	
+INFO:root:[Epoch 3]	time: 5.16 sec	time_step: 5.16 msec/step	speed: 193.73 samples/sec	train_loss: 10.7720	
+INFO:root:[Epoch 4]	time: 5.15 sec	time_step: 5.15 msec/step	speed: 194.01 samples/sec	train_loss: 10.7843	
+INFO:root:[Epoch 5]	time: 5.21 sec	time_step: 5.21 msec/step	speed: 191.93 samples/sec	train_loss: 11.2097	
+INFO:root:[Epoch 6]	time: 5.21 sec	time_step: 5.21 msec/step	speed: 191.93 samples/sec	train_loss: 12.7299	
+INFO:root:[Epoch 7]	time: 5.27 sec	time_step: 5.27 msec/step	speed: 189.85 samples/sec	train_loss: 13.3734	
+INFO:root:[Epoch 8]	time: 5.40 sec	time_step: 5.40 msec/step	speed: 185.34 samples/sec	train_loss: 13.1170	
+INFO:root:[Epoch 9]	time: 6.51 sec	time_step: 6.51 msec/step	speed: 153.50 samples/sec	train_loss: 13.7565	
+INFO:root:[Epoch 10]	time: 6.47 sec	time_step: 6.47 msec/step	speed: 154.55 samples/sec	train_loss: 14.2449	
+INFO:root:[Epoch 11]	time: 9.15 sec	time_step: 9.15 msec/step	speed: 109.30 samples/sec	train_loss: 14.2439	
+INFO:root:[Epoch 12]	time: 10.01 sec	time_step: 10.01 msec/step	speed: 99.86 samples/sec	train_loss: 14.4986	
+INFO:root:[Epoch 13]	time: 13.11 sec	time_step: 13.11 msec/step	speed: 76.30 samples/sec	train_loss: 14.3510	
+INFO:root:[Epoch 14]	time: 14.86 sec	time_step: 14.86 msec/step	speed: 67.29 samples/sec	train_loss: 14.3547	
+INFO:root:[Epoch 15]	time: 15.26 sec	time_step: 15.26 msec/step	speed: 65.54 samples/sec	train_loss: 14.2462	
+INFO:root:[Epoch 16]	time: 15.53 sec	time_step: 15.53 msec/step	speed: 64.40 samples/sec	train_loss: 14.7277	
+INFO:root:[Epoch 17]	time: 15.66 sec	time_step: 15.66 msec/step	speed: 63.85 samples/sec	train_loss: 14.7303	
+INFO:root:[Epoch 18]	time: 16.76 sec	time_step: 16.76 msec/step	speed: 59.68 samples/sec	train_loss: 14.3653	
+INFO:root:[Epoch 19]	time: 16.34 sec	time_step: 16.34 msec/step	speed: 61.20 samples/sec	train_loss: 14.2767	
